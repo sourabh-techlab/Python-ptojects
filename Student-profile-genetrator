@@ -1,0 +1,21 @@
+'''Student Profile Generator
+Name: Rahul
+Age: 14
+School: ABC School
+Favorite Subject: Computer Science
+
+================================
+       STUDENT PROFILE
+================================
+Name       : Rahul
+Age        : 14
+School     : ABC School
+Subject    : Computer Science
+================================'''
+
+print('STUDENT PROFILE')
+print()
+print('Name      : Rahul')
+print('Age       : 14')
+print('School    : ABC School')
+print('Subject   : Computer Science')
